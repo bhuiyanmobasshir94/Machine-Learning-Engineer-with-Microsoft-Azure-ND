@@ -33,3 +33,13 @@ Model Interpretation. We'll explore how model interpretation allows us to build 
 #### Project: Creating and Optimizing an ML Pipeline
 
 In the project at the end of this course, you'll have the opportunity to create and optimize an ML pipeline. You'll do this both using HyperDrive and also Automated ML, so that you can compare the results of the two methods.
+
+
+#### Additional Resources
+1. [Microsoft Documentation: What is automated machine learning?](https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml)
+2. [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
+3. [What is elastic computing or cloud elasticity?](https://azure.microsoft.com/en-us/overview/what-is-elastic-computing/)
+4. [Microsoft Documentation: Comparison between Azure data storage and on-premises storage](https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/4-comparison-azure-and-on-prem-storage)
+5. [**Tackling Bias in Machine Learning**](https://blog.insightdatascience.com/tackling-discrimination-in-machine-learning-5c95fde95e95)
+6. [**A Survey on Bias and Fairness in Machine Learning**](https://arxiv.org/pdf/1908.09635.pdf)
+7. [**How can your company perform a digital transformation?**](https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/2-what-is-digital-transformation)
