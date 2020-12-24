@@ -43,3 +43,4 @@ In the project at the end of this course, you'll have the opportunity to create 
 5. [**Tackling Bias in Machine Learning**](https://blog.insightdatascience.com/tackling-discrimination-in-machine-learning-5c95fde95e95)
 6. [**A Survey on Bias and Fairness in Machine Learning**](https://arxiv.org/pdf/1908.09635.pdf)
 7. [**How can your company perform a digital transformation?**](https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/2-what-is-digital-transformation)
+8. [ Microsoft's official documentation on the Azure ML Plaftorm](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-ml)
