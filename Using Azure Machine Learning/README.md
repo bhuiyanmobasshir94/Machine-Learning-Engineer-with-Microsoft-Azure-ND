@@ -46,3 +46,5 @@ In the project at the end of this course, you'll have the opportunity to create 
 8. [ Microsoft's official documentation on the Azure ML Plaftorm](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-ml)
 9. [ Create an Azure Machine Learning Workspace](https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/create-workspace)
 10. [Microsoft Documentation: Create Compute Resources](https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/create-compute)
+11. [Explore Azure Machine Learning with Jupyter notebooks](https://docs.microsoft.com/en-us/azure/machine-learning/samples-notebooks)
+12. [How to run Jupyter Notebooks in your workspace](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-run-jupyter-notebooks)
