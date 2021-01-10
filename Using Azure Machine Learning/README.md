@@ -44,3 +44,5 @@ In the project at the end of this course, you'll have the opportunity to create 
 6. [**A Survey on Bias and Fairness in Machine Learning**](https://arxiv.org/pdf/1908.09635.pdf)
 7. [**How can your company perform a digital transformation?**](https://docs.microsoft.com/en-us/learn/modules/enable-digital-transformation/2-what-is-digital-transformation)
 8. [ Microsoft's official documentation on the Azure ML Plaftorm](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-ml)
+9. [ Create an Azure Machine Learning Workspace](https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/create-workspace)
+10. [Microsoft Documentation: Create Compute Resources](https://docs.microsoft.com/en-us/learn/modules/use-automated-machine-learning/create-compute)
