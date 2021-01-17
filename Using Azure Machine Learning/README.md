@@ -51,3 +51,5 @@ In the project at the end of this course, you'll have the opportunity to create 
 13. [the Microsoft documentation on describing data ingestion and processing](https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/2-describe-data-ingestion-process)
 14. [Detect data drift (preview) on datasets](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-monitor-datasets)
 15. [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/)
+16. [Principle of Least Privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege)
+17. [Article from Cybersecurity and Infrastructure Security Agency (CISA) (part of the US Department of Homeland Security)](https://www.us-cert.gov/bsi/articles/knowledge/principles/least-privilege)
