@@ -50,3 +50,4 @@ In the project at the end of this course, you'll have the opportunity to create 
 12. [How to run Jupyter Notebooks in your workspace](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-run-jupyter-notebooks)
 13. [the Microsoft documentation on describing data ingestion and processing](https://docs.microsoft.com/en-us/learn/modules/explore-concepts-of-data-analytics/2-describe-data-ingestion-process)
 14. [Detect data drift (preview) on datasets](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-monitor-datasets)
+15. [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/)
