@@ -64,3 +64,6 @@ In the project at the end of this course, you'll have the opportunity to create 
 26. [Continuous Delivery (CD)](https://en.wikipedia.org/wiki/Continuous_delivery)
 27. [data lineage](https://en.wikipedia.org/wiki/Data_lineage)
 28. [What are Azure Machine Learning pipelines?](https://docs.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines)
+29. [Microsoft documentation on tuning model hyperparameters](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/tune-model-hyperparameters)
+30. [Azure ML SDK documentation](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/?view=azure-ml-py)
+31. [Install the Azure Machine Learning SDK for Python](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/install?view=azure-ml-py)
