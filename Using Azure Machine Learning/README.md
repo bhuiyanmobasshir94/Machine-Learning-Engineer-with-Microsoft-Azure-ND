@@ -60,3 +60,7 @@ In the project at the end of this course, you'll have the opportunity to create 
 22. [Published pipelines](https://docs.microsoft.com/en-us/azure/machine-learning/concept-designer#publish)
 23. [Real-time endpoints](https://docs.microsoft.com/en-us/azure/machine-learning/concept-designer#deploy)
 24. [What is Azure Machine Learning designer?](https://docs.microsoft.com/en-us/azure/machine-learning/concept-designer)
+25. [Continuous Integration (CI)](https://en.wikipedia.org/wiki/Continuous_integration)
+26. [Continuous Delivery (CD)](https://en.wikipedia.org/wiki/Continuous_delivery)
+27. [data lineage](https://en.wikipedia.org/wiki/Data_lineage)
+28. [What are Azure Machine Learning pipelines?](https://docs.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines)
