@@ -1,3 +1,18 @@
+## Interfacing with Datasets
+
+```
+from azureml.core.dataset import Dataset
+
+url_paths = [
+            'http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz',
+            'http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz',
+            'http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz',
+            'http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz'
+            ]
+
+dataset = Dataset.File.from_files(path=url_paths)
+df = dataset.to_pandas_dataframe()
+```
 ## Installing and Using the SDK with a Makefile
 
 One of our main goals in using the Azure ML SDK is to add automation to our Python projects. One way we can do that is to use the SDK is to create an installation step with a `Makefile` and incorporate the Azure ML SDK with your Continuous Integration workflow.
