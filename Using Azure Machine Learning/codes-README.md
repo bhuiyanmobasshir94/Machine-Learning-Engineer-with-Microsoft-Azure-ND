@@ -72,3 +72,30 @@ pipeline_run = experiment.submit(pipeline)
 pipeline_run.wait_for_completion()
 ```
 
+## Listing Past Experiments
+
+```
+from azureml.core.experiment import Experiment
+
+# First, we pass in the workspace object `ws` to the `list` method
+# and it returns a Python list of `Experiment` objects.  
+list_experiments = Experiment.list(ws)
+
+# If we print the contents of the variable,
+# we can see the list of all the experiments
+# that have been run in that workspace.
+print(list_experiments)
+[Experiment(Name: dataset_profile,
+ Workspace: Azure-ML-Workspace), Experiment(Name: binary-classification,
+ Workspace: Azure-ML-Workspace), Experiment(Name: regression,
+ Workspace: Azure-ML-Workspace), Experiment(Name: sfautoml]
+```
+
+##  Submitting New Experiments
+
+```
+from azureml.core.experiment import Experiment
+
+experiment = Experiment(ws, "automl_test_experiment")
+run = experiment.submit(config=automl_config, show_output=True)
+```
