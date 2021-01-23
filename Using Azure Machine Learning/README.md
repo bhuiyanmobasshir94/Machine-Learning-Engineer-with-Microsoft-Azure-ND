@@ -67,3 +67,6 @@ In the project at the end of this course, you'll have the opportunity to create 
 29. [Microsoft documentation on tuning model hyperparameters](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/tune-model-hyperparameters)
 30. [Azure ML SDK documentation](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/?view=azure-ml-py)
 31. [Install the Azure Machine Learning SDK for Python](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/install?view=azure-ml-py)
+32. [the documentation for the dataset module](https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.dataset)
+33. [Players with salary wiki twitter - Social Power NBA Dataset](https://video.udacity-data.com/topher/2020/September/5f73bfb8_nba-2017-players-with-salary-wiki-twitter/nba-2017-players-with-salary-wiki-twitter.csv)
+34. [Makefile](https://en.wikipedia.org/wiki/Makefile)
