@@ -123,4 +123,26 @@ print('\n keep probability:',parameter_values[5])
 print('\n batch size:',parameter_values[7])
 ```
 
-## 
+## Configuring AutoML from the SDK
+
+```
+from azureml.train.automl import AutoMLConfig
+
+automl_config = AutoMLConfig(task="classification",
+                             X=your_training_features,
+                             y=your_training_labels,
+                             iterations=30,
+                             iteration_timeout_minutes=5,
+                             primary_metric="AUC_weighted",
+                             n_cross_validations=5
+                            )
+`1`
+
+## Running AutoML from the SDK
+
+```
+from azureml.core.experiment import Experiment
+
+experiment = Experiment(ws, "automl_test_experiment")
+run = experiment.submit(config=automl_config, show_output=True)
+```

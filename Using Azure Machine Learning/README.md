@@ -72,3 +72,6 @@ In the project at the end of this course, you'll have the opportunity to create 
 34. [Makefile](https://en.wikipedia.org/wiki/Makefile)
 35. [An extensive documentation of all the things Experiments can do here](https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.experiment.experiment?view=azure-ml-py)
 36. [Pin all dependencies (& let pip sort ’em out)](https://www.promptworks.com/blog/pin-all-dependencies/)
+37. [Tune hyperparameters for your model with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters)
+38. [How Microsoft is applying AutoML to a variety of problems](https://www.microsoft.com/en-us/research/project/automl/)
+39. [Video from Microsoft Research](https://www.youtube.com/watch?v=5ke9ZEvXJEk&feature=youtu.be)
