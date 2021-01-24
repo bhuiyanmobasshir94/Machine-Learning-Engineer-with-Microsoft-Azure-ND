@@ -75,3 +75,6 @@ In the project at the end of this course, you'll have the opportunity to create 
 37. [Tune hyperparameters for your model with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters)
 38. [How Microsoft is applying AutoML to a variety of problems](https://www.microsoft.com/en-us/research/project/automl/)
 39. [Video from Microsoft Research](https://www.youtube.com/watch?v=5ke9ZEvXJEk&feature=youtu.be)
+40. [Microsoft documentation on configuring automated ML experiments in Python](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-auto-train)
+41. [Use the interpretability package to explain ML models & predictions in Python](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-machine-learning-interpretability-aml)
+42. [Open Neural Network Exchange (ONNX)](https://onnx.ai/)
