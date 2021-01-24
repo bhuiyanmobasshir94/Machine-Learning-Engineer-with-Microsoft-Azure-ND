@@ -136,7 +136,7 @@ automl_config = AutoMLConfig(task="classification",
                              primary_metric="AUC_weighted",
                              n_cross_validations=5
                             )
-`1`
+```
 
 ## Running AutoML from the SDK
 
@@ -145,4 +145,11 @@ from azureml.core.experiment import Experiment
 
 experiment = Experiment(ws, "automl_test_experiment")
 run = experiment.submit(config=automl_config, show_output=True)
+```
+
+## ONNX
+
+```
+import onnxruntime
+session = onnxruntime.InferenceSession("path to model")
 ```
