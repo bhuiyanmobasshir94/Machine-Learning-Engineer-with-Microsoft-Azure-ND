@@ -99,3 +99,28 @@ from azureml.core.experiment import Experiment
 experiment = Experiment(ws, "automl_test_experiment")
 run = experiment.submit(config=automl_config, show_output=True)
 ```
+
+## Controlling HyperDrive with the SDK
+
+```
+from azureml.train.hyperdrive import BayesianParameterSampling
+from azureml.train.hyperdrive import uniform, choice
+param_sampling = BayesianParameterSampling( {
+        "learning_rate": uniform(0.05, 0.1),
+        "batch_size": choice(16, 32, 64, 128)
+    }
+)
+```
+```
+best_run = hyperdrive_run.get_best_run_by_primary_metric()
+best_run_metrics = best_run.get_metrics()
+parameter_values = best_run.get_details()['runDefinition']['Arguments']
+
+print('Best Run Id: ', best_run.id)
+print('\n Accuracy:', best_run_metrics['accuracy'])
+print('\n learning rate:',parameter_values[3])
+print('\n keep probability:',parameter_values[5])
+print('\n batch size:',parameter_values[7])
+```
+
+## 
