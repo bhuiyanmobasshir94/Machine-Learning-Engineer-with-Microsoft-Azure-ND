@@ -3,4 +3,8 @@
 2. [Python for DevOps book](https://www.oreilly.com/library/view/python-for-devops/9781492057680/)
 3. [Cloud Computing for Data Analysis book](https://leanpub.com/cloud4data)
 4. [Azure's resources on Machine Learning Operations](https://azure.microsoft.com/en-us/services/machine-learning/mlops/)
-
+5. [Azure ML studio](https://ml.azure.com/)
+6. [Azure Python SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/?view=azure-ml-py)
+7. [Jupyter Notebooks](https://jupyter.org/)
+8. [Swagger](https://swagger.io/)
+9. [Apache Benchmark](https://httpd.apache.org/docs/2.4/programs/ab.html)
