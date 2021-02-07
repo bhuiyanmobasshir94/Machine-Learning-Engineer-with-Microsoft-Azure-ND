@@ -9,3 +9,4 @@
 8. [Swagger](https://swagger.io/)
 9. [Apache Benchmark](https://httpd.apache.org/docs/2.4/programs/ab.html)
 10. [Github Repo](https://github.com/udacity/nd00333_AZMLND_C2)
+11. [Chapter 7 of Python For DevOps](https://www.oreilly.com/library/view/python-for-devops/9781492057680/)
