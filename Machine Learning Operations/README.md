@@ -12,3 +12,4 @@
 11. [Chapter 7 of Python For DevOps](https://www.oreilly.com/library/view/python-for-devops/9781492057680/)
 12. [Jenkins](https://www.jenkins.io/)
 13. [Github Actions](https://github.com/features/actions)
+14. [Azure Machine Learning](https://azure.microsoft.com/en-us/pricing/details/machine-learning/#enterprise-edition)
