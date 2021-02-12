@@ -13,3 +13,7 @@
 12. [Jenkins](https://www.jenkins.io/)
 13. [Github Actions](https://github.com/features/actions)
 14. [Azure Machine Learning](https://azure.microsoft.com/en-us/pricing/details/machine-learning/#enterprise-edition)
+15. [ACI (Azure Container Instances)](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-azure-container-instance)
+16. [AKS (Azure Kubernetes Service)](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-azure-kubernetes-service?tabs=python)
+17. [Tutorial for how to setup authentication](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-setup-authentication)
+
