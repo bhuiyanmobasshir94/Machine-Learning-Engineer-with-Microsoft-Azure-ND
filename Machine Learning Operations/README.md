@@ -16,4 +16,9 @@
 15. [ACI (Azure Container Instances)](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-azure-container-instance)
 16. [AKS (Azure Kubernetes Service)](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-azure-kubernetes-service?tabs=python)
 17. [Tutorial for how to setup authentication](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-setup-authentication)
+18. [Application Insights](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-enable-app-insights)
+19. [Github repo for Application Insights](https://github.com/udacity/nd00333_AZMLND_C2)
+
+## Datasets
+1. [Bike-no.csv](https://raw.githubusercontent.com/Azure/MachineLearningNotebooks/master/how-to-use-azureml/automated-machine-learning/forecasting-bike-share/bike-no.csv)
 
