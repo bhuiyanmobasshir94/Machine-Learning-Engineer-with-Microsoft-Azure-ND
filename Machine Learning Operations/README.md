@@ -18,6 +18,10 @@
 17. [Tutorial for how to setup authentication](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-setup-authentication)
 18. [Application Insights](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-enable-app-insights)
 19. [Github repo for Application Insights](https://github.com/udacity/nd00333_AZMLND_C2)
+20. [Troubleshoot deployment of models section](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-troubleshoot-deployment)
+21. [What is a compute instance?](https://docs.microsoft.com/en-us/azure/machine-learning/concept-compute-instance)
+22. 
+23. 
 
 ## Datasets
 1. [Bike-no.csv](https://raw.githubusercontent.com/Azure/MachineLearningNotebooks/master/how-to-use-azureml/automated-machine-learning/forecasting-bike-share/bike-no.csv)
