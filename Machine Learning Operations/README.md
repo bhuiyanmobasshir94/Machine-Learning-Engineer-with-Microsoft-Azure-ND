@@ -22,6 +22,7 @@
 21. [What is a compute instance?](https://docs.microsoft.com/en-us/azure/machine-learning/concept-compute-instance)
 22. [Chapter 4 of Python For DevOps](https://www.oreilly.com/library/view/python-for-devops/9781492057680/)
 23. [Swagger homepage](https://swagger.io/tools/swagger-ui/)
+24. ["How to consume a web service](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-consume-web-service)
 
 
 ## Datasets
