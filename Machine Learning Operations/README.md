@@ -29,3 +29,8 @@
 ## Datasets
 1. [Bike-no.csv](https://raw.githubusercontent.com/Azure/MachineLearningNotebooks/master/how-to-use-azureml/automated-machine-learning/forecasting-bike-share/bike-no.csv)
 
+## Commands
+```
+ab -n 10 -v 4 -p data.json -T 'application/json' -H 'Authorization: Bearer SECRET' http://URL.azurecontainer.io/score
+```
+
