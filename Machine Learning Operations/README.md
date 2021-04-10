@@ -24,6 +24,8 @@
 23. [Swagger homepage](https://swagger.io/tools/swagger-ui/)
 24. ["How to consume a web service](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-consume-web-service)
 25. [Apache benchmarking tool](https://httpd.apache.org/docs/2.4/programs/ab.html)
+26. ["What are Machine Learning Pipelines"](https://docs.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines)
+27. [ Batch inference announcement](https://techcommunity.microsoft.com/t5/azure-ai/batch-inference-in-azure-machine-learning/ba-p/1417010)
 
 
 ## Datasets
