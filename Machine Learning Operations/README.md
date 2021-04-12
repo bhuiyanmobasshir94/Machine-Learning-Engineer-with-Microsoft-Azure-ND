@@ -27,6 +27,7 @@
 26. ["What are Machine Learning Pipelines"](https://docs.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines)
 27. [Batch inference announcement](https://techcommunity.microsoft.com/t5/azure-ai/batch-inference-in-azure-machine-learning/ba-p/1417010)
 28. [how to create and run ML Pipelines](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-your-first-pipeline)
+29. [Pipeline Endpoint class](https://docs.microsoft.com/en-us/python/api/azureml-pipeline-core/azureml.pipeline.core.pipeline_endpoint.pipelineendpoint?view=azure-ml-py)
 
 
 ## Datasets
